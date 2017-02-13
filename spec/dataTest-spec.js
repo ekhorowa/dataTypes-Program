@@ -1,5 +1,5 @@
 
-var dataTypes = require ('../src/dataTypes.js');// I  imported the 
+var dataTypes = require ('../src/dataTypes.js');// I  imported the file path to the soussrce code
 describe("Data types tests ", function() {
   describe("Case for some falsy values", function() {
 
