@@ -1,0 +1,23 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "dataTypes program to compare and return results, based on the argument supplied to the function",
+  "main": "dataTypes.js",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhorowa/dataTypes-Program.git"
+  },
+  "author": "Omokaro Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekhorowa/dataTypes-Program/issues"
+  },
+  "homepage": "https://github.com/ekhorowa/dataTypes-Program#readme"
+}
